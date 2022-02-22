@@ -5,3 +5,9 @@
 **Today's Progress**: 
 * Practiced basic examples of problem solving on HackerRank. 
 * Learned about pointers and pointers arithmetic. Got to know about different behaviours of pointers in different data types.
+
+### Day 1 : February 22, 2022
+
+**Today's Progress**: 
+* completed Pointers. Learned about working of pointers with arrays and functions, character Pointers and Double Pointers.
+* Solved Questions related to Pointers on CN platform.
