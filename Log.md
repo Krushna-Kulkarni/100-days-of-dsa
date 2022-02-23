@@ -11,3 +11,10 @@
 **Today's Progress**: 
 * completed Pointers. Learned about working of pointers with arrays and functions, character Pointers and Double Pointers.
 * Solved Questions related to Pointers on CN platform.
+
+### Day 2 : February 23, 2022
+
+**Today's Progress**: 
+* Learned about Address Typecasting, Reference Variables and Pass by Reference for variables and pointers.
+* Solved Questions related to Reference Variables and Pass by Reference on CN platform.
+
