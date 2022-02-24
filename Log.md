@@ -18,3 +18,9 @@
 * Learned about Address Typecasting, Reference Variables and Pass by Reference for variables and pointers.
 * Solved Questions related to Reference Variables and Pass by Reference on CN platform.
 
+### Day 3 : February 24, 2022
+
+**Today's Progress**: 
+* Learned about Dynamic Memmory Allocation for variables, arrays and 2D arrays.
+* Solved Questions related to Dynamic Memmory Allocation on CN platform.
+
