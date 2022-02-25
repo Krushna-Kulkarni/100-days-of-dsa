@@ -24,3 +24,7 @@
 * Learned about Dynamic Memmory Allocation for variables, arrays and 2D arrays.
 * Solved Questions related to Dynamic Memmory Allocation on CN platform.
 
+### Day 4 : February 25, 2022
+
+**Today's Progress**: 
+* Learned about use of Macros and Global Variables. Started Inline and Default Arguments.
